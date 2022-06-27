@@ -1,4 +1,4 @@
-# frb_grav_lensing
+# frb-grav-lensing
 Tools for forecasting fast radio burst gravitational lensing. The following notebook will generate the main figures from "Stellar prospects for FRB gravitational lensing" Connor & Ravi (2022)
 
 For PBH constraints figure 6, run
